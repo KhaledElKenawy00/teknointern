@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "603846986695",
+    "project_id": "teknointern",
+    "storage_bucket": "teknointern.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603846986695:android:7e977d6167971a5262a7e2",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANSXiLWy_kL2u8SDCkOGy8tmY9Nc6x1W4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603846986695:android:0619654351a784f862a7e2",
+        "android_client_info": {
+          "package_name": "com.example.onloneshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANSXiLWy_kL2u8SDCkOGy8tmY9Nc6x1W4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603846986695:android:ef82a36bd83f4f0b62a7e2",
+        "android_client_info": {
+          "package_name": "com.example.teknointern"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANSXiLWy_kL2u8SDCkOGy8tmY9Nc6x1W4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
